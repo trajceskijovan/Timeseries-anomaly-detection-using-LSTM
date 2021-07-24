@@ -8,4 +8,4 @@ Timeseries anomaly detection using LSTM: Johnson &amp; Johnson (JNJ) daily data 
 # Jupiter Notebook:
 https://github.com/trajceskijovan/Timeseries-anomaly-detection-using-LSTM/blob/main/Timeseries%20anomaly%20detection%20using%20LSTM.ipynb
 
-
+# Highlights:
