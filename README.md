@@ -10,20 +10,20 @@ https://github.com/trajceskijovan/Timeseries-anomaly-detection-using-LSTM/blob/m
 
 # Highlights:
 
-![](samples/1.PNG)
+![](samples/1.png)
 
 ![](samples/2.PNG)
 
 ![](samples/3.PNG)
 
-![](samples/4.PNG)
+![](samples/4.png)
 
-![](samples/5.PNG)
+![](samples/5.png)
 
-![](samples/6.PNG)
+![](samples/6.png)
 
-![](samples/7.PNG)
+![](samples/7.png)
 
-![](samples/8.PNG)
+![](samples/8.png)
 
 
