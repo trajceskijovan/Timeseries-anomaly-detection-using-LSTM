@@ -9,3 +9,21 @@ Timeseries anomaly detection using LSTM: Johnson &amp; Johnson (JNJ) daily data 
 https://github.com/trajceskijovan/Timeseries-anomaly-detection-using-LSTM/blob/main/Timeseries%20anomaly%20detection%20using%20LSTM.ipynb
 
 # Highlights:
+
+![](samples/1.PNG)
+
+![](samples/2.PNG)
+
+![](samples/3.PNG)
+
+![](samples/4.PNG)
+
+![](samples/5.PNG)
+
+![](samples/6.PNG)
+
+![](samples/7.PNG)
+
+![](samples/8.PNG)
+
+
